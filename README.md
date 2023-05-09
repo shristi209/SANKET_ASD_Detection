@@ -53,7 +53,7 @@ And then Activate the virtual environment by running the command "myenv\Scripts\
 For binary image classification we used CNN algorithm.This helps us to detect a child has autism or not. You may be curious,why we use CNN?
 As you know, we have to classify the images of children by facial features.
 </h3></br>
- 
+ <h3>
 1. For binary image classification, </br>
 - We firstly, import the necessary keras models.</br>
 -Then, most importantly we generate batches of tensor image data with real time augmentation to be able to recognise new unseen images by prevention of overfitting.</br>
@@ -61,4 +61,4 @@ As you know, we have to classify the images of children by facial features.
 
 - The CNN model is built using the Sequential model object. This demonstrates how to build a CNN model for binary image classification using Keras.</br>
 
-
+</h3>
