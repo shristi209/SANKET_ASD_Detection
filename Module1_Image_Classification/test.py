@@ -1,7 +1,7 @@
 
 #Importing the necessary modules
 import streamlit as st
-from PIL import Image                                  #PIL-> Python Imaging Library
+from PIL import Image                                  
 import numpy as np
 import tensorflow as tf
 
